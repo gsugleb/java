@@ -40,5 +40,4 @@ public class Runner {
         System.out.println("Max total expenses:");
         maxTransportExpenses.show();
     }
-
 }

@@ -9,8 +9,7 @@ public class BusinessTrip {
     public BusinessTrip() {
         super();
     }
-    public BusinessTrip(String name, String lastName,
-                        int transportExpences, int days) {
+    public BusinessTrip(String name, String lastName, int transportExpences, int days) {
         super();
         this.name = name;
         this.lastName = lastName;
